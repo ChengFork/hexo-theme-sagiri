@@ -30,7 +30,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "DIYgod,blog"
+keywords: "Cheng,Hoshino,Makoto"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -97,11 +97,11 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/DIYgod || github
-  Twitter: https://twitter.com/DIYgod || twitter
-  QQ 群: /images/qq-g.jpg || qq || qq
-  Telegram Channel: https://t.me/awesomeDIYgod || telegram
-  更多: https://www.anotherhome.net/3163 || more
+  GitHub: https://github.com/MeowCheng || github
+  Twitter: https://twitter.com/HoshinoMeow || twitter
+  # QQ 群: /images/qq-g.jpg || qq || qq
+  Telegram Channel: https://t.me/HoshinoBoard || telegram
+  更多: https://cheng.pet/ || more
 
 social_icons:
   enable: true
@@ -114,12 +114,12 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  DIYgos: https://diygod.me || https://diygod.me/images/DIYgod.jpg || Hi, DIYgod
+  DIYgos: https://catmeow.me || https://catmeow.me/images/hoshino.png || Hey, Hoshino
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: /images/DIYgod.jpg
+avatar: /images/hoshino.png
 
 # Table Of Contents in the Sidebar
 toc:
